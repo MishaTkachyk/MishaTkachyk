@@ -27,6 +27,6 @@ https://user-images.githubusercontent.com/95180913/146676871-002b606e-f0d2-45c3-
     
 - 📖 Successfully completed training:
 - «GeekBrains»
-- «IT Web Study»
+- «IT Web Study».
     
 
