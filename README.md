@@ -29,4 +29,6 @@ https://user-images.githubusercontent.com/95180913/146676871-002b606e-f0d2-45c3-
 - «GeekBrains»
 - «IT Web Study».
     
+<h1 align="center">📫 How to reach me
 
+[![Telegram](https://img.shields.io/badge/-Telegram-000000?style=for-the-badge&logo=telegram&logoColor=00ff88)](https://t.me/heueyehnsnm)
