@@ -31,5 +31,5 @@ https://user-images.githubusercontent.com/95180913/146676871-002b606e-f0d2-45c3-
     
 <h1 align="center">📫 How to reach me
 
-[![Telegram](https://img.shields.io/badge/-Telegram-000000?style=for-the-badge&logo=telegram&logoColor=00ff88)](https://t.me/heueyehnsnm)
+[![Telegram](https://img.shields.io/badge/-Telegram-000000?style=for-the-badge&logo=telegram&logoColor=00ff88)](https://t.me/mishatkachyk)
 [![Gmail](https://img.shields.io/badge/-mmikhail.tkachyk@gmail.com-000000?style=for-the-badge&logo=Gmail&logoColor=ff0000)](https://docs.google.com/document/d/1DMxui8Zq5NOfBai5ukGCmcGrnaFMz3-Qjfd7F3F_2Y8/edit?usp=sharing)
